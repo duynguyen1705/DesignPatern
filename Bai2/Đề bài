@@ -1,1 +1,3 @@
+Câu 2. Cho một mảng các số nguyên có thể được sắp xếp tăng dần, hoặc giảm dần sử dụng thuật toán sắp xếp nổi bọt, hoặc sắp xếp chọn. Sau này, James mong muốn áp dụng thêm các thuật toán sắp xếp khác (hiện tại James chưa muốn cài đặt). Hãy giúp James xây dựng mẫu thiết kế thích hợp nhất. Viết phương thức main để chạy thử chương trình.
 
+Gợi ý: Sử dụng mẫu thiết kế Strategy
